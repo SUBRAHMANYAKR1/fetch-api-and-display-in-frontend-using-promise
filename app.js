@@ -1,3 +1,6 @@
+//Fetch api by .then() method
+
+
 let section=document.getElementById("container")
 console.log(section)
 let data=fetch("https://dummyjson.com/products")
